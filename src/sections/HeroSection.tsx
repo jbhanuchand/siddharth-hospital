@@ -1,4 +1,4 @@
-import heroImage from '../assets/banner.png'
+import heroImage from '../assets/banner.jpg'
 import { FaPhone } from "react-icons/fa"
 
 export default function HeroSection() {

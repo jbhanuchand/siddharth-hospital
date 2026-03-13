@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { useState } from "react"
 import { FaBars, FaTimes, FaPhone } from "react-icons/fa"
-import logo from "../assets/hospital_logo.png"
+import logo from "../assets/hospital_logo.jpg"
 
 export default function Navbar() {
 

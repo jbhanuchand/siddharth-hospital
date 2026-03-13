@@ -6,7 +6,7 @@ export const doctors: Doctor[] = [
     name: "Dr. Sankar Narayana",
     speciality: "Paediatrics",
     experience: 15,
-    imageasset: "dr_sankar.png",
+    imageasset: "dr_sankar.jpg",
     description: "Neonatal and Children’s Specialist",
   },
   {
